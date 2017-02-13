@@ -1,0 +1,16 @@
+PODS:
+  - SimpleRipple (0.1.0)
+
+DEPENDENCIES:
+  - SimpleRipple (from `../`)
+
+EXTERNAL SOURCES:
+  SimpleRipple:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SimpleRipple: 76a11d3b15bb06ec7da33ed091e2c6bb5ae34b7f
+
+PODFILE CHECKSUM: ce0aecc9b5e0d37ba7bdfb45bd54d3b939f50a09
+
+COCOAPODS: 1.1.1

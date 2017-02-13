@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SimpleRipple_Example' do
+  pod 'SimpleRipple', :path => '../'
+
+  target 'SimpleRipple_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
