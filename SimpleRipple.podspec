@@ -12,6 +12,7 @@ This pod includes a UIView extension that allows any UIView to show a ripple eff
   s.author           = { 'Mauro de Carvalho' => 'mauro.dec@gmail.com' }
   s.source           = { :git => 'https://github.com/maurodec/SimpleRipple.git', :tag => s.version.to_s }
 
+  s.platform = :ios
   s.ios.deployment_target = '8.0'
   s.ios.framework  = 'UIKit'
   s.source_files = 'SimpleRipple/**/*'
