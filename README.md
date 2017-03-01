@@ -35,7 +35,7 @@ Using this library is, as the name implies, very simple.
                   fadeAfter:fadeAfter];
    ```
 
-If youre interested on how this was built (or just want to see gifs of what it looks like), you should read the [accompanying blog post](http://maurodec.com/blog/ripple/).
+If youre interested on how this was built (or just want to see gifs of what it looks like), you should read the [accompanying blog post](http://maurodec.com/blog/simple-ripple-effect-for-ios-views/).
 
 ## Contributing
 
